@@ -1,12 +1,10 @@
-# Hi there, I'm Prof. Chao Zhai 👋
-
 [![Institution](https://img.shields.io/badge/University-China_University_of_Geosciences-blue.svg)](https://www.cug.edu.cn/)
 [![School](https://img.shields.io/badge/School-School_of_Automation-red.svg)](#)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=LDH5iTkAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1204--6654-green?logo=orcid)](#)
 [![IEEE Senior Member](https://img.shields.io/badge/IEEE-Senior_Member-orange.svg)](#)
 
-I am a Professor at the **School of Automation, China University of Geosciences (Wuhan)**. My research focuses on multi-agent cooperative systems, resilient control theory, distributed sensing coverage, active disturbance rejection control (ADRC), and human-robot/social motor coordination.
+Chao Zhai is a Full Professor in School of Artificial Intelligence and Automation, China University of Geosciences. His research focuses on cooperative control, coverage control, social motor coordination, and power grid resilience. He earned a PhD in complex systems and control from the Chinese Academy of Sciences and held post-doctoral positions at the University of Bristol, Nanyang Technological University and Singapore-ETH Centre, ETH Zurich.
 
 ---
 
